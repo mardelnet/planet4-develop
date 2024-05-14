@@ -7,3 +7,7 @@ node_modules/*
 junit.xml
 hosts.backup
 hosts.windows.backup
+
+!planet4/plugins/
+planet4/plugins/*
+!planet4/plugins/planet4-plugin-gutenberg-blocks
